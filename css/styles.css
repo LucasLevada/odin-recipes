@@ -1,0 +1,13 @@
+*{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.mainHead{
+  font-size: 100px;
+  text-align: center;
+  color: blue;
+  box-shadow: inset;
+}
+.unList{
+  margin-left: 20px;
+  font-size: 80px;
+}
